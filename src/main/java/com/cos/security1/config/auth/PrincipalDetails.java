@@ -80,7 +80,7 @@ public class PrincipalDetails implements UserDetails, OAuth2User {
     public String getName() {
         return null;
     }
-    
+
     @Override
     public Map<String, Object> getAttributes() {
         return null;
